@@ -23,7 +23,8 @@
             "cep": "78048-250",
             "estado": {
                 "id": 1,
-                "desc": "Mato Grosso"
+                "nome": "Mato Grosso",
+                "sigla": "MT"
             },
             "cidade": "Cuiabá",
             "logradouro": "Av. Dr. Hélio Ribeiro",
