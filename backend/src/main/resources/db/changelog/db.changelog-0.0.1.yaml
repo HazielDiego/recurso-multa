@@ -1,0 +1,18 @@
+  databaseChangeLog:
+    -  changeSet:
+         id:  1
+         author:  wagner
+         changes:
+           -  createTable:
+                tableName:  unidade_federativa
+                columns:
+                  -  column:
+                       name:  id
+                       type:  int
+                       autoIncrement:  true
+                       constraints:
+                         primaryKey:  true
+                         nullable:  false
+                  -  column:
+                       name:  descricao
+                       type:  varchar(255)
