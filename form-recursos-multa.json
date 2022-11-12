@@ -1,0 +1,51 @@
+{
+    "createdAt": "2022-11-12",
+    "declaracao": {
+        "texto": "Declaro, para os devidos fins e efeitos legais, serem pessoais e verdadeiras as informações inseridas no Formulário de Recurso de Multa do DETRAN-MT, sobre as quais assumo todas as responsabilidades, sob pena de incorrer nas sanções previstas nos artigos 299 e 307 do Código Penal (falsidade ideológica e falsa identidade).",
+        "aceitou": true
+    },
+    "tipoDeDefesa": {
+        "id": 1,
+        "descricao": "Defesa de Autuação" 
+    },
+    "autoDeInfracao": {
+        "numeroDoAutoDeInfracao": "MTA0000000",
+        "placa": "AAA0000",
+        "renavam": "123456789",
+        "resumoDaDefesa": "Eu não estava na rua citada, no dia e na hora citados, estava tomando banho no rio, tenho 2 testemunhas, inclusive meu cachorro."
+    },
+    "dadosRequerente": {
+        "nome": "Diego Martins",
+        "email": "diegomartins1985@hotmail.com",
+        "telefone": "65981223963",
+        "celular": "65981223963",
+        "endereco":{
+            "cep": "78048-250",
+            "estado": {
+                "id": 1,
+                "desc": "Mato Grosso"
+            },
+            "cidade": "Cuiabá",
+            "logradouro": "Av. Dr. Hélio Ribeiro",
+            "numero": "691",
+            "complemento": "Apto. 208 T2"
+        },
+        "tipoDoRequerente": {
+            "id": 1,
+            "descricao": "Proprietário"
+        }
+    },
+    "uploads":[
+        {
+            "tipo": "PDF",
+            "arquivo": "lkjasdflkjadf",
+            "titulo": "copiaCrlv"
+        },
+        {
+            "tipo": "PDF",
+            "arquivo": "lkjasdflkjadf",
+            "titulo": "copia de documento com Foto"
+        }
+    ]
+    
+}
